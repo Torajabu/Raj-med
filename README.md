@@ -1,7 +1,7 @@
 ![logo](https://github.com/Raj-med/Raj-med/blob/main/11.png)
 
 <h1 align="center">Hi 👋, I'm Rajabudeen Ahamed M (RAJAB)</h1>
-<h3 align="center">A Machine learning Enthusiast and A Competitive Programmer</h3>
+<h3 align="center">| ML enthusiast | Competitive Programmer</h3>
 
 <img align="right" alt="coding" width="400" src="[https://github.com/Raj-med/Raj-med/blob/main/f7771c46-2c35-447c-960f-1ee89ce7f7ad.png](https://github.com/Raj-med/Raj-med/blob/main/f7771c46-2c35-447c-960f-1ee89ce7f7ad.jpg)">
 
