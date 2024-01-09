@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajabudeen Ahamed M (RAJAB)</h1>
 <h3 align="center">A Machine learning Enthusiast and A Competetive Programmer</h3>
-<img align="centre" alt = "coding" width ="400" src = "https://www.pinterest.com/pin/567523990538356835/">
+<img align="centre" alt = "coding" width ="400" src = "![image](https://github.com/Raj-med/Raj-med/assets/123363346/5a17646c-e241-4a9a-a346-dca08efd5e62)
+">
 
 
 <img align="right" alt = "coding" width ="400" src = "https://www.quora.com/Which-is-better-creating-a-video-by-AI-or-humans">
