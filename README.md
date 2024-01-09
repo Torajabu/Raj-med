@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Rajabudeen Ahamed M (RAJAB)</h1>
 <h3 align="center">| ML enthusiast | Competitive Programmer | </h3>
 
-<img align="right" alt="coding" width="400" src="[https://github.com/Raj-med/Raj-med/blob/main/f7771c46-2c35-447c-960f-1ee89ce7f7ad.png](https://github.com/Raj-med/Raj-med/blob/main/f7771c46-2c35-447c-960f-1ee89ce7f7ad.jpg)">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj-med&label=Profile%20views&color=0e75b6&style=flat" alt="raj-med" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raj-med" alt="raj-med" /></a> </p>
