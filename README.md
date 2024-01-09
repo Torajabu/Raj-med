@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Rajabudeen Ahamed M (RAJAB)</h1>
 <h3 align="center">A Machine learning Enthusiast and A Competetive Programmer</h3>
 
-<img align="right" alt="coding" width="400" src="[![image](https://github.com/Raj-med/Raj-med/assets/123363346/62b81266-672a-4650-bbb1-7f3148212557)](https://github.com/Raj-med/Raj-med/blob/main/12.gif)
+<img align="right" alt="coding" width="400" src="![image](https://github.com/Raj-med/Raj-med/assets/123363346/25674801-7b72-496e-8d93-91018a4cd67b)
+
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj-med&label=Profile%20views&color=0e75b6&style=flat" alt="raj-med" /> </p>
