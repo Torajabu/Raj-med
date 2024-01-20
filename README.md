@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raj-med" alt="raj-med" /></a> </p>
 
-- 📝 I regularly write articles on [RAJAB.IN](https://rajab.in/))
+- 📝 I regularly write articles on [RAJAB.IN](https://rajab.in/)
 
 - 📫 How to reach me **rajabudeenahamed1997@gmail.com**
 
