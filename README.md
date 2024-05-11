@@ -1,7 +1,7 @@
 ![logo](https://github.com/Raj-med/Raj-med/blob/main/11.png)
 
 <h1 align="center">Hi 👋, I'm Rajabudeen Ahamed M (RAJAB)</h1>
-<h3 align="center">| ML enthusiast | Problem Solver | </h3>
+<h3 align="center">| ML | PCB | Problem Solver | </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj-med&label=Profile%20views&color=0e75b6&style=flat" alt="raj-med" /> </p>
 
