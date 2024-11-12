@@ -1,4 +1,4 @@
-![logo](https://github.com/Raj-med/Raj-med/blob/main/IMaG.png)
+![logo](https://github.com/Raj-med/Raj-med/blob/main/Screenshot%202024-11-12%20192901.png)
 
 <h1 align="center">Hi 👋, I'm Rajabudeen Ahamed M (RAJAB)</h1>
 <h3 align="center">| ML | Little bit Robotics | Problem Solver | </h3>
