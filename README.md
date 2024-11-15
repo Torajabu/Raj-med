@@ -1,4 +1,4 @@
-![logo](ezgif-5-0c7eeb97e3.gif)
+![logo](https://github.com/Raj-med/Raj-med/blob/main/ezgif.com-video-to-gif-converter.gif)
 
 <h1 align="center">Hi 👋, I'm Rajabudeen Ahamed M (RAJAB)</h1>
 <h3 align="center">| ML | Little bit Robotics | Problem Solver | </h3>
