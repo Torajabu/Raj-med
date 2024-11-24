@@ -1,7 +1,7 @@
 ![logo](https://github.com/Raj-med/Raj-med/blob/main/ezgif.com-video-to-gif-converter.gif)
 
 <h1 align="center">Hi 👋, I'm Rajabudeen Ahamed M (RAJAB)</h1>
-<h3 align="center">| ML |  I'm constantly learning about machine learning system architecture | Problem Solver | </h3>
+<h3 align="center">| ML |  I'm constantly learning about machine learning system architecture | Problem Solver |Algorithm Developer| </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj-med&label=Profile%20views&color=0e75b6&style=flat" alt="raj-med" /> </p>
 
