@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Rajabudeen Ahamed M (RAJAB)</h1>
 <h3 align="center">| ML |  I'm constantly learning about machine learning system architecture | Problem Solver |Algorithm Developer| </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raj-med&label=Profile%20views&color=0e75b6&style=flat" alt="raj-med" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Torajabu&label=Profile%20views&color=0e75b6&style=flat" alt="Torajabu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raj-med" alt="raj-med" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Torajabu" alt="Torajabu" /></a> </p>
 
 - 📝 I regularly write articles on [RAJAB.IN](https://rajab.in/)
 
