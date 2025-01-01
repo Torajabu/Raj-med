@@ -1,4 +1,4 @@
-![logo](https://github.com/Torajabu/Torajabu/blob/main/ezgif.com-video-to-gif-converter.gif)
+![logo](https://github.com/Torajabu/Raj-med/blob/main/ezgif.com-video-to-gif-converter.gif)
 
 <h1 align="center">Hi 👋, I'm Rajabudeen Ahamed M (RAJAB)</h1>
 <h3 align="center">| ML |  I'm constantly learning about machine learning system architecture | Problem Solver |Algorithm Developer| </h3>
